@@ -1,0 +1,27 @@
+round 4: malicious peer 57 DDoS burst
+round 6: malicious peer 26 poisoned a piece
+round 10: malicious peer 16 DDoS burst
+round 13: malicious peer 43 poisoned a piece
+round 28: malicious peer 50 DDoS burst
+round 31: malicious peer 16 DDoS burst
+round 33: malicious peer 46 DDoS burst
+round 39: malicious peer 50 poisoned a piece
+round 43: malicious peer 57 poisoned a piece
+round 56: malicious peer 57 DDoS burst
+round 60: malicious peer 46 poisoned a piece
+round 66: malicious peer 50 DDoS burst
+round 70: malicious peer 16 poisoned a piece
+round 75: malicious peer 57 poisoned a piece
+round 86: malicious peer 57 DDoS burst
+round 118: malicious peer 50 poisoned a piece
+round 119: malicious peer 50 DDoS burst
+round 124: malicious peer 16 DDoS burst
+round 132: malicious peer 19 DDoS burst
+round 145: malicious peer 43 DDoS burst
+round 156: malicious peer 19 DDoS burst
+round 197: malicious peer 16 poisoned a piece
+round 207: malicious peer 43 poisoned a piece
+round 213: malicious peer 16 DDoS burst
+round 221: malicious peer 43 DDoS burst
+round 223: malicious peer 19 poisoned a piece
+round 231: malicious peer 46 poisoned a piece

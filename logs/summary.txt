@@ -1,0 +1,14 @@
+Simulation Summary (2025-11-30T22:17:56.474957)
+
+avg_trust: 3.693
+isolated_peers: 22
+corruption_events: 27
+crypto_fail_events: 0
+bad_hmac_events: 0
+bad_padding_events: 0
+snoop_events: 25
+uncoop_events: 28
+type_honest: 41
+type_malicious: 7
+type_snooper: 6
+type_uncoop: 6
